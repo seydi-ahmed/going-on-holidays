@@ -1,0 +1,114 @@
+Étape 1 : Guide d'Entrevue
+
+Objectif : Créer un guide d'entretien pour interroger les utilisateurs et comprendre les causes du stress pendant les vacances entre amis.
+
+    Définir l'objectif : Ce que vous cherchez à savoir sur les habitudes des utilisateurs et les problèmes principaux.
+    Hypothèses : Développez 1 à 3 hypothèses à valider.
+    Thèmes principaux : Choisir 3 à 5 thèmes à explorer avec des questions ouvertes.
+    Questions démographiques : Inclure quelques questions pour collecter des données démographiques (âge, emploi, etc.).
+    Structure de l'entretien : Organiser les questions en entonnoir, des plus générales aux plus spécifiques.
+    Introduction et Conclusion : Rédiger une brève introduction et une conclusion pour remercier l'utilisateur.
+
+Livrable :
+
+    Un document PDF intitulé “Nom_Prenom_InterviewGuide_Date_Version”.
+
+
+*****************************************************************************************
+
+Étape 2 : Réalisation des Interviews
+
+Objectif : Mener 6 interviews (au moins 3 avec des étrangers) et recueillir des informations qualitatives.
+
+    Faire des interviews en binôme : Un intervieweur et un preneur de notes.
+    Analyser les réactions, hésitations : Utiliser un dictaphone si nécessaire (avec permission).
+
+Livrables :
+
+    Un PDF avec les scripts de toutes les interviews, intitulé “Nom_Prenom_InterviewScripts_Date_Version”.
+
+*****************************************************************************************
+
+Étape 3 : Analyse des Données
+
+Objectif : Synthétiser les données issues des interviews en utilisant des Post-its pour regrouper les idées par thèmes.
+
+    Créer un Affinity Diagram : Regrouper les idées ou citations similaires en clusters.
+    Créer une Empathy Map : Remplir la carte d'empathie à partir des clusters de l'affinity diagram.
+
+Livrables :
+
+    Des photos de l'Affinity Diagram et de l'Empathy Map, sous forme numérique ou papier.
+    Un dossier nommé “ProjectTitle_Nom_Prenom” contenant les fichiers.
+
+*****************************************************************************************
+
+Étape 4 : Énoncé du Problème
+
+Objectif : Créer un énoncé du problème sous la forme "How Might We...".
+
+    Formuler un énoncé clair du problème à partir des données recueillies et de l'empathy map.
+
+Livrable :
+
+    Un PDF avec l'énoncé du problème, intitulé “Nom_Prenom_ProblemStatement_Date_Version”.
+
+*****************************************************************************************
+
+Étape 5 : Atelier d'Idéation
+
+Objectif : Générer et affiner des idées créatives pour résoudre le problème.
+
+    Techniques d'idéation : Utiliser des techniques comme le "Worst Idea", "Brainwriting", ou "Mash Up".
+    Sessions en binôme : Alterner entre facilitateur et time-keeper/logistique.
+    Voter pour 3 idées principales à partir de chaque atelier.
+
+Livrables :
+
+    Script des ateliers d'idéation et photos des deux sessions.
+    Un PDF avec les 3 idées finales sélectionnées.
+
+*****************************************************************************************
+
+Étape 6 : User Flow
+
+Objectif : Développer un user flow cohérent basé sur les idées choisies lors de l'atelier d'idéation.
+
+    Construire un user flow : Organiser les étapes clés d'interaction de l'utilisateur dans un diagramme.
+
+Livrable :
+
+    Un diagramme de flux utilisateur, sous forme numérique ou papier.
+
+*****************************************************************************************
+
+Étape 7 : Prototypes Papier et Fil de Fer
+
+Objectif : Créer un prototype en papier et des wireframes (moyenne fidélité) à tester avec des utilisateurs.
+
+    Prototypes en papier : Créer 6 à 12 écrans principaux.
+    Test d'utilisabilité : Testez les prototypes avec 3 utilisateurs.
+    Wireframes en moyenne fidélité sur Figma : Basé sur les tests utilisateurs.
+
+Livrables :
+
+    Photos du prototype papier.
+    Figma file avec les wireframes.
+
+*****************************************************************************************
+
+Dossiers et Fichiers à Créer
+
+    Fichiers PDF pour chaque livrable :
+        Interview Guide : “Nom_Prenom_InterviewGuide_Date_Version”
+        Interview Scripts : “Nom_Prenom_InterviewScripts_Date_Version”
+        Affinity Diagram & Empathy Map : Photos ou digital output
+        Problem Statement : “Nom_Prenom_ProblemStatement_Date_Version”
+        Idéation Workshop : “Nom_Prenom_IdeationWorkshop_Date_Version”
+        User Flow : “Nom_Prenom_UserFlow_Date_Version”
+        Prototypes : “Nom_Prenom_PaperPrototype_Date_Version” + Figma file
+
+    Dossiers :
+        Créer un dossier nommé "ProjectTitle_Nom_Prenom" contenant tous les fichiers.
+
+*****************************************************************************************
