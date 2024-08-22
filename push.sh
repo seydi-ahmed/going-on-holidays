@@ -2,5 +2,5 @@ git config --global user.email "seydiahmedelcheikh@gmail.com"
 git config --global user.name "mouhameddiouf"
 git config credential.helper store
 git add .
-git commit -m "mini-framwork created"
+git commit -m "etape 1 started"
 git push

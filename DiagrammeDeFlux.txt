@@ -1,0 +1,5 @@
+Étape 6 : User Flow
+
+Objectif : Développer un user flow cohérent basé sur les idées choisies lors de l'atelier d'idéation.
+
+    Construire un user flow : Organiser les étapes clés d'interaction de l'utilisateur dans un diagramme.
