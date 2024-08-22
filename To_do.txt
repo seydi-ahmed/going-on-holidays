@@ -1,29 +1,4 @@
-Étape 2 : Réalisation des Interviews
 
-Objectif : Mener 6 interviews (au moins 3 avec des étrangers) et recueillir des informations qualitatives.
-
-    Faire des interviews en binôme : Un intervieweur et un preneur de notes.
-    Analyser les réactions, hésitations : Utiliser un dictaphone si nécessaire (avec permission).
-
-Livrables :
-
-    Un PDF avec les scripts de toutes les interviews, intitulé “Nom_Prenom_InterviewScripts_Date_Version”.
-
-*****************************************************************************************
-
-Étape 3 : Analyse des Données
-
-Objectif : Synthétiser les données issues des interviews en utilisant des Post-its pour regrouper les idées par thèmes.
-
-    Créer un Affinity Diagram : Regrouper les idées ou citations similaires en clusters.
-    Créer une Empathy Map : Remplir la carte d'empathie à partir des clusters de l'affinity diagram.
-
-Livrables :
-
-    Des photos de l'Affinity Diagram et de l'Empathy Map, sous forme numérique ou papier.
-    Un dossier nommé “ProjectTitle_Nom_Prenom” contenant les fichiers.
-
-*****************************************************************************************
 
 Étape 4 : Énoncé du Problème
 

@@ -9,9 +9,7 @@ Rôles :
     Dictaphone : Utilisé avec la permission des participants pour enregistrer l'intégralité des interviews,
                     afin de ne pas perdre de détails importants. (Chaque interviewé doit donner son accord pour être enregistré.)
 
-1. Déroulement des Interviews :
-Voici un exemple fictif de comment se dérouleraient les interviews pour recueillir des informations :
-
+Déroulement des Interviews :
 Contexte des Interviews :
     Lieu : Un parc local, un café et une bibliothèque.
     Durée de chaque interview : Environ 15 à 20 minutes.
