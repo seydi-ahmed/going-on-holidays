@@ -2,5 +2,5 @@ git config --global user.email "seydiahmedelcheikh@gmail.com"
 git config --global user.name "mouhameddiouf"
 git config credential.helper store
 git add .
-git commit -m "Affinity diagram & Empathy map"
+git commit -m "Problem Statement to pdf"
 git push
