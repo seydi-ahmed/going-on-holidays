@@ -1,21 +1,3 @@
-Étape 1 : Guide d'Entrevue
-
-Objectif : Créer un guide d'entretien pour interroger les utilisateurs et comprendre les causes du stress pendant les vacances entre amis.
-
-    Définir l'objectif : Ce que vous cherchez à savoir sur les habitudes des utilisateurs et les problèmes principaux.
-    Hypothèses : Développez 1 à 3 hypothèses à valider.
-    Thèmes principaux : Choisir 3 à 5 thèmes à explorer avec des questions ouvertes.
-    Questions démographiques : Inclure quelques questions pour collecter des données démographiques (âge, emploi, etc.).
-    Structure de l'entretien : Organiser les questions en entonnoir, des plus générales aux plus spécifiques.
-    Introduction et Conclusion : Rédiger une brève introduction et une conclusion pour remercier l'utilisateur.
-
-Livrable :
-
-    Un document PDF intitulé “Nom_Prenom_InterviewGuide_Date_Version”.
-
-
-*****************************************************************************************
-
 Étape 2 : Réalisation des Interviews
 
 Objectif : Mener 6 interviews (au moins 3 avec des étrangers) et recueillir des informations qualitatives.
