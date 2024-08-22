@@ -1,10 +1,45 @@
-Étape 1 : Guide d'Entrevue
+Objectif :
+L'objectif de ce guide d'entrevue est de mieux comprendre les habitudes des utilisateurs en matière de vacances entre amis et
+d'identifier les sources principales de stress, d'irritation ou de conflits pendant ces moments.
+L'idée est d'obtenir des informations détaillées pour améliorer l'expérience collective des vacances et rendre ces moments plus agréables pour tout le monde.
 
-Objectif : Créer un guide d'entretien pour interroger les utilisateurs et comprendre les causes du stress pendant les vacances entre amis.
+Hypothèses :
+    Hypothèse 1 : Le manque de communication et de planification est la principale cause de tension entre amis pendant les vacances.
+    Hypothèse 2 : Les différences de préférences en termes d'activités (ex : certains veulent se détendre, d'autres veulent explorer) créent des conflits.
+    Hypothèse 3 : La gestion de l'argent (dépenses communes, budgets individuels) est une source récurrente de stress et d'inconfort.
 
-    Définir l'objectif : Ce que vous cherchez à savoir sur les habitudes des utilisateurs et les problèmes principaux.
-    Hypothèses : Développez 1 à 3 hypothèses à valider.
-    Thèmes principaux : Choisir 3 à 5 thèmes à explorer avec des questions ouvertes.
-    Questions démographiques : Inclure quelques questions pour collecter des données démographiques (âge, emploi, etc.).
-    Structure de l'entretien : Organiser les questions en entonnoir, des plus générales aux plus spécifiques.
-    Introduction et Conclusion : Rédiger une brève introduction et une conclusion pour remercier l'utilisateur.
+Thèmes et Questions :
+    Planification des Vacances
+        Question 1 : Parlez-moi de la dernière fois où vous avez planifié des vacances avec des amis. Comment vous y êtes-vous pris pour organiser les choses ?
+        Question 2 : Comment décidez-vous généralement des destinations et des activités à faire pendant les vacances ?
+        Question 3 : Y a-t-il eu des moments où la planification a conduit à des désaccords ? Comment cela a-t-il été géré ?
+    Communication et Coordination
+        Question 4 : Comment communiquez-vous avec vos amis avant et pendant les vacances pour vous organiser ? Utilisez-vous des outils ou applications spécifiques ?
+        Question 5 : Pendant les vacances, comment gérez-vous les changements imprévus dans le planning ou les désaccords sur les activités ?
+    Activités et Préférences
+        Question 6 : Quelles sont vos activités préférées pendant les vacances avec vos amis ? Avez-vous des amis avec des préférences très différentes des vôtres ?
+        Question 7 : Parlez-moi d'une fois où vous avez dû faire un compromis sur une activité pendant les vacances. Comment cela s'est-il passé ?
+    Budget et Dépenses
+        Question 8 : Comment gérez-vous les dépenses pendant les vacances en groupe ? Utilisez-vous des applications ou méthodes pour suivre les dépenses ?
+        Question 9 : Y a-t-il eu des moments où les questions financières ont provoqué des tensions entre vous et vos amis ?
+    Confort et Irritations
+        Question 10 : Qu'est-ce qui vous irrite le plus pendant les vacances en groupe ? Comment gérez-vous ces moments pour maintenir une bonne ambiance ?
+
+Questions Démographiques :
+    Âge :
+    Profession :
+    Lieu de résidence :
+    Nombre d'amis avec lesquels vous partez habituellement en vacances :
+    Fréquence des vacances entre amis : (ex : tous les ans, tous les 6 mois, etc.)
+
+Introduction à l'Entrevue :
+"Bonjour et merci de prendre le temps de participer à cette entrevue. Je m'appelle [Nom], et je travaille sur un projet
+pour rendre les vacances entre amis plus confortables et moins stressantes.
+Je vais vous poser quelques questions sur vos expériences passées en vacances avec vos amis pour mieux comprendre ce qui
+fonctionne bien et ce qui peut être amélioré. L'entretien durera environ 15 minutes.
+Il n'y a pas de bonne ou de mauvaise réponse, et tout ce que vous direz restera confidentiel. Est-ce que cela vous convient ?"
+
+Conclusion de l'Entrevue :
+"Merci beaucoup d'avoir partagé vos expériences avec moi. Cela m'a beaucoup aidé à mieux comprendre ce qui peut rendre les
+vacances entre amis plus agréables ou plus stressantes. Si vous connaissez quelqu'un d'autre qui pourrait être intéressé par
+cette discussion, n'hésitez pas à me mettre en contact avec eux. Merci encore et passez une bonne journée !"
