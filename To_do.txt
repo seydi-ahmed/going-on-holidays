@@ -1,15 +1,3 @@
-Étape 4 : Énoncé du Problème
-
-Objectif : Créer un énoncé du problème sous la forme "How Might We...".
-
-    Formuler un énoncé clair du problème à partir des données recueillies et de l'empathy map.
-
-Livrable :
-
-    Un PDF avec l'énoncé du problème, intitulé “Nom_Prenom_ProblemStatement_Date_Version”.
-
-*****************************************************************************************
-
 Étape 5 : Atelier d'Idéation
 
 Objectif : Générer et affiner des idées créatives pour résoudre le problème.
