@@ -1,5 +1,68 @@
-Étape 6 : User Flow
+                                USER FLOW
 
-Objectif : Développer un user flow cohérent basé sur les idées choisies lors de l'atelier d'idéation.
 
-    Construire un user flow : Organiser les étapes clés d'interaction de l'utilisateur dans un diagramme.
+1) Description du User Flow:
+
+L'application de coordination de vacances aide les utilisateurs à organiser des voyages en groupe,
+en permettant à chaque membre de voter sur les activités, de suivre les plannings et de synchroniser les préférences du groupe.
+Voici les étapes clés du User Flow :
+
+    1) Connexion ou Inscription
+        L'utilisateur se connecte à l'application ou crée un compte.
+
+    2) Création d'un Nouveau Voyage
+        L'utilisateur crée un voyage et invite les autres membres du groupe à le rejoindre via un lien ou une invitation par email.
+
+    3) Paramétrage des Préférences
+        Chaque utilisateur ajoute ses préférences (activités, restaurants, type d’hébergement, etc.) pour le voyage.
+
+    4) Planification Automatique
+        L'application génère un emploi du temps optimisé en fonction des préférences du groupe et propose des options.
+
+    5) Validation des Activités
+        Les membres votent ou commentent sur les options proposées.
+
+    6) Rappels et Notifications
+        L'application envoie des rappels pour confirmer les réservations, les échéances de paiement et les tâches à accomplir.
+
+    7) Synchronisation Finale
+        Le planning final est synchronisé et partagé avec tous les membres.
+
+    8) Vacances
+        Pendant les vacances, l'application fournit des mises à jour sur le programme et permet d’ajouter des changements en temps réel.
+
+    9) Feedback et Clôture
+        Après les vacances, l'application demande un feedback pour améliorer les futurs voyages.
+
+                    ***************************************************************
+
+2) Diagramme de flux:
+
+
+    User Flow - Vacation Coordination App
+    
+    1. Connexion / Inscription
+           |
+           v
+    2. Création d'un Nouveau Voyage
+           |
+           v
+    3. Paramétrage des Préférences
+           |
+           v
+    4. Planification Automatique
+           |
+           v
+    5. Validation des Activités
+           |
+           v
+    6. Rappels et Notifications
+           |
+           v
+    7. Synchronisation Finale
+           |
+           v
+    8. Vacances
+           |
+           v
+    9. Feedback et Clôture

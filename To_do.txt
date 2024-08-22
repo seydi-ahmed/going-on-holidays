@@ -1,29 +1,3 @@
-Étape 5 : Atelier d'Idéation
-
-Objectif : Générer et affiner des idées créatives pour résoudre le problème.
-
-    Techniques d'idéation : Utiliser des techniques comme le "Worst Idea", "Brainwriting", ou "Mash Up".
-    Sessions en binôme : Alterner entre facilitateur et time-keeper/logistique.
-    Voter pour 3 idées principales à partir de chaque atelier.
-
-Livrables :
-
-    Script des ateliers d'idéation et photos des deux sessions.
-    Un PDF avec les 3 idées finales sélectionnées.
-
-*****************************************************************************************
-
-Étape 6 : User Flow
-
-Objectif : Développer un user flow cohérent basé sur les idées choisies lors de l'atelier d'idéation.
-
-    Construire un user flow : Organiser les étapes clés d'interaction de l'utilisateur dans un diagramme.
-
-Livrable :
-
-    Un diagramme de flux utilisateur, sous forme numérique ou papier.
-
-*****************************************************************************************
 
 Étape 7 : Prototypes Papier et Fil de Fer
 
