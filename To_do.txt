@@ -1,5 +1,3 @@
-
-
 Étape 4 : Énoncé du Problème
 
 Objectif : Créer un énoncé du problème sous la forme "How Might We...".
